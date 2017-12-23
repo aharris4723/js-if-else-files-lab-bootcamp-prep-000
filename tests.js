@@ -1,4 +1,5 @@
 var index = require("./index.js")
+var height = 70;
 
 if (index.name === "Susan") {
     console.log("The name is correct")
